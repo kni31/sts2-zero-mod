@@ -1,0 +1,16 @@
+{
+    "CHARMODTEST-CHAR_MOD_TEST.aromaPrinciple": "Lore",
+  "CHARMODTEST-CHAR_MOD_TEST.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "CHARMODTEST-CHAR_MOD_TEST.banter.dead.endTurnPing": "...",
+  "CHARMODTEST-CHAR_MOD_TEST.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "CHARMODTEST-CHAR_MOD_TEST.cardsModifierTitle": "__ Cards",
+  "CHARMODTEST-CHAR_MOD_TEST.description": "Character Selection\nScreen Description",
+  "CHARMODTEST-CHAR_MOD_TEST.eventDeathPrevention": "Co-op survival line",
+  "CHARMODTEST-CHAR_MOD_TEST.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "CHARMODTEST-CHAR_MOD_TEST.possessiveAdjective": "his/her/its",
+  "CHARMODTEST-CHAR_MOD_TEST.pronounObject": "him/her/it",
+  "CHARMODTEST-CHAR_MOD_TEST.pronounPossessive": "his/hers/its",
+  "CHARMODTEST-CHAR_MOD_TEST.pronounSubject": "he/she/it",
+  "CHARMODTEST-CHAR_MOD_TEST.title": "The CharModTest",
+  "CHARMODTEST-CHAR_MOD_TEST.titleObject": "The CharModTest"
+}

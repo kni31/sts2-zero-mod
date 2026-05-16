@@ -1,0 +1,13 @@
+{
+  "CHARMODTEST-GOLD_EQ_POWER.description": "",
+  "CHARMODTEST-GOLD_EQ_POWER.smartDescription": "",
+  "CHARMODTEST-GOLD_EQ_POWER.title": "Gold Eq Power",
+
+  "CHARMODTEST-THE_SEALED_THRONE_POWER.description": "카드를 사용할 때마다 별을 3개 얻습니다.",
+  "CHARMODTEST-THE_SEALED_THRONE_POWER.smartDescription": "",
+  "CHARMODTEST-THE_SEALED_THRONE_POWER.title": "Sealed Throne Power",
+
+  "CHARMODTEST-ZEROPOWER.description": "카드를 사용할 때마다 특수 자원 1개를 얻습니다.",
+  "CHARMODTEST-ZEROPOWER.smartDescription": "카드를 사용할 때마다 특수 자원 1개를 얻습니다.",
+  "CHARMODTEST-ZEROPOWER.title": "타임포스"
+}

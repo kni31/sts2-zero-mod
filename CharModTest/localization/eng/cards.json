@@ -1,0 +1,13 @@
+{
+  "CHARMODTEST-REAPER.description": "Deal {Damage:diff()} damage to ALL enemies. Heal HP equal to unblocked damage.",
+  "CHARMODTEST-REAPER.title": "Reaper",
+
+  "CHARMODTEST-BURSTJUMP.description": "{Block:diff()} 만큼의 방어도를 얻습니다.",
+  "CHARMODTEST-BURSTJUMP.title": "버스트점프",
+
+  "CHARMODTEST-DEFENDZERO.description": "{Block:diff()} 만큼의 방어도를 얻습니다.",
+  "CHARMODTEST-DEFENDZERO.title": "수비",
+
+  "CHARMODTEST-STRIKEZERO.description": "{Damage:diff()} 만큼의 피해를 입힙니다.",
+  "CHARMODTEST-STRIKEZERO.title": "타격"
+}

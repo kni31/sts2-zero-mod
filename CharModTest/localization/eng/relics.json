@@ -1,0 +1,14 @@
+{
+    "CHARMODTEST-TEST_RELIC.description": "A simple test relic.",
+    "CHARMODTEST-TEST_RELIC.title": "Test Relic",
+    "CHARMODTEST-TEST_RELIC.flavor": "",
+    "CHARMODTEST-TEST_RELIC.approval": "test",
+
+    "CHARMODTEST-MY_RELIC.title": "My Relic",
+    "CHARMODTEST-MY_RELIC.description": "A simple custom relic.",
+    "CHARMODTEST-MY_RELIC.flavor": "",
+
+    "CHARMODTEST-ZERO_RELIC.description": "카드 사용 시 타임포스를 얻습니다.",
+    "CHARMODTEST-ZERO_RELIC.flavor": "",
+    "CHARMODTEST-ZERO_RELIC.title": "제로의 모래시계"
+}
